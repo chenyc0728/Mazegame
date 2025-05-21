@@ -1,0 +1,7 @@
+﻿  Mazegame.cpp
+D:\study\MazeGame\Mazegame.cpp(92,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\study\MazeGame\Mazegame.cpp(666,1): warning C4828: 文件包含在偏移 0xd606 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\study\MazeGame\Mazegame.cpp(100,9): warning C4101: “play”: 未引用的局部变量
+D:\study\MazeGame\Mazegame.cpp(928,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\study\MazeGame\Mazegame.cpp(1094): warning C4715: “trans”: 不是所有的控件路径都返回值
+  MazeGame.vcxproj -> D:\study\MazeGame\x64\Debug\MazeGame.exe
